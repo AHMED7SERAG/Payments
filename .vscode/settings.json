@@ -1,0 +1,8 @@
+{
+    "files.autoSave": "onWindowChange",
+    "blade.format.enable": true,
+    "emmet.showSuggestionsAsSnippets": true,
+    "emmet.triggerExpansionOnTab": true,
+    "git.allowForcePush": true,
+    "git.enableSmartCommit": true
+}
